@@ -1,0 +1,20 @@
+{
+  "name": "colored-dice-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "author": "Vallabha Rao.Vamaravelli",
+  "license": "ISC",
+  "dependencies": {
+    "@types/uuid": "^8.0.0",
+    "@types/ws": "^7.2.6",
+    "typescript": "^3.9.5",
+    "uuid": "^8.2.0",
+    "ws": "^7.1.2"
+  }
+}
+
